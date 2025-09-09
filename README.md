@@ -1,2 +1,1 @@
-# Git Pratice
-Giới thiệu: Tôi là Đinh Trung Vĩnh, MSSV 221576.
+Đây là README từ nhánh conflict-demo.
